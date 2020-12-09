@@ -7,5 +7,5 @@ Before running, modify the files inside /res:
 + **message.txt** should contain a pre-written message with two separate tags. **{to}** representing the person to be addressed, and **{ss}** representing their Secret Santa match.
 + **sender.txt** should contain the login information of the sender email address. 
 
-Check out [my blog post](https://thenullproject.com/page.html?fetchpost=2) for more info.
+Check out [my blog post](https://thenullproject.com/page.html?fetchpost=1) for more info.
 
